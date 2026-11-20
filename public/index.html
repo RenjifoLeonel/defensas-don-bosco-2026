@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es-BO">
+<html lang="es-BO" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +14,10 @@
   <meta property="og:locale" content="es_BO">
   <title>Defensas 2026 · Diseño Gráfico · Don Bosco El Prado</title>
   <link rel="icon" href="assets/favicon.png" type="image/png">
+  <script src="theme.js"></script>
+  <link rel="preload" href="assets/fonts/LobsterTwo-BoldItalic.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="theme.css">
   <script src="app.js" defer></script>
   <script src="visits.js" defer></script>
 </head>
@@ -34,6 +37,7 @@
     <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
   </defs></svg>
   <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <button class="theme-toggle" data-theme-toggle type="button" aria-label="Cambiar a modo claro" title="Cambiar a modo claro"><span data-theme-icon aria-hidden="true">☀</span><span data-theme-label>Modo claro</span></button>
   <header class="site-header">
     <a class="brand" href="#inicio" aria-label="Don Bosco El Prado, inicio"><img src="assets/logo-don-bosco.webp" alt="" width="43" height="58"><span>DON BOSCO <small>EL PRADO · DISEÑO GRÁFICO</small></span></a>
     <nav aria-label="Navegación principal"><a href="#programa">Programa</a><a href="#modalidades">Modalidades</a><a href="#jurados">Jurados</a><a href="#ubicacion">Ubicación</a></nav>
@@ -90,6 +94,6 @@
   </main>
   <footer class="site-footer page-width"><div class="brand"><img src="assets/logo-don-bosco.webp" alt="Logo del CEA Don Bosco El Prado" width="43" height="58" loading="lazy"><span>DON BOSCO <small>EL PRADO · DISEÑO GRÁFICO</small></span></div><p>Defensas de Proyectos Finales · Gestión 2026<br><span>Técnico Medio II · Turno noche</span></p><a href="#inicio">Volver al inicio</a></footer>
   <div class="site-credits page-width"><p>Sitio creado por <strong>Lic. Willy Renjifo Mamani</strong><br>Docente de la Carrera de Diseño Gráfico</p><div class="visit-counter" aria-label="Contador de visitas"><span>VISITAS AL SITIO</span><strong id="visit-total" aria-live="polite">—</strong><small id="visit-note">Consultando visitas…</small></div></div>
-  <dialog id="welcome-dialog" aria-labelledby="welcome-title"><div class="welcome-content"><p class="eyebrow">DON BOSCO · EL PRADO</p><h2 id="welcome-title">Un gran logro<br>merece ser compartido.</h2><p class="welcome-subtitle">Diseño Gráfico · Defensas 2026</p><div class="welcome-host"><span>TE INVITA</span><strong>Lic. Willy Renjifo Mamani</strong><p>Docente de la carrera de Diseño Gráfico</p></div><div class="envelope" aria-hidden="true"><div class="envelope-letter"><img src="assets/logo-don-bosco-3d.webp" alt="" width="180" height="245"><span>ESTÁS INVITADO</span></div><div class="envelope-back"></div><div class="envelope-flap"></div><div class="envelope-front"></div><span class="envelope-seal"><svg class="icon"><use href="#i-cap"/></svg></span></div><button class="button button-gold" id="open-invitation"><svg class="icon"><use href="#i-mail"/></svg>Abrir invitación</button><p class="welcome-date">24 y 25 de noviembre · 19:00</p><button class="skip-intro" id="skip-invitation">Ir directamente al programa</button></div></dialog>
+  <dialog id="welcome-dialog" aria-labelledby="welcome-title"><button class="theme-toggle" data-theme-toggle type="button" aria-label="Cambiar a modo claro" title="Cambiar a modo claro"><span data-theme-icon aria-hidden="true">☀</span><span data-theme-label>Modo claro</span></button><div class="welcome-content"><p class="eyebrow">DON BOSCO · EL PRADO</p><h2 id="welcome-title">Un gran logro<br>merece ser compartido.</h2><p class="welcome-subtitle">Diseño Gráfico · Defensas 2026</p><div class="welcome-host"><span>TE INVITA</span><strong>Lic. Willy Renjifo Mamani</strong><p>Docente de la carrera de Diseño Gráfico</p></div><h3 class="welcome-project-title"><span>Defensa de</span> <span>Proyectos Finales</span></h3><div class="welcome-ornament" aria-hidden="true"><span>✣</span></div><div class="envelope" aria-hidden="true"><div class="envelope-letter"><img src="assets/logo-don-bosco-3d.webp" alt="" width="180" height="245"><span>ESTÁS INVITADO</span></div><div class="envelope-back"></div><div class="envelope-flap"></div><div class="envelope-front"></div><span class="envelope-seal"><svg class="icon"><use href="#i-cap"/></svg></span></div><button class="button button-gold" id="open-invitation"><svg class="icon"><use href="#i-mail"/></svg>Abrir invitación</button><p class="welcome-date">24 y 25 de noviembre · 19:00</p><button class="skip-intro" id="skip-invitation">Ir directamente al programa</button></div></dialog>
 </body>
 </html>

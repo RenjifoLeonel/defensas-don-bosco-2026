@@ -4,10 +4,12 @@
   "private": true,
   "type": "module",
   "description": "Invitación y programa oficial de Diseño Gráfico del CEA Don Bosco D, gestión 2026",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "build": "node scripts/build.mjs",
     "dev": "node serve.mjs",
-    "check": "node --check public/app.js && node scripts/build.mjs"
+    "check": "node --check public/app.js && node --check public/theme.js && node scripts/build.mjs"
   }
 }

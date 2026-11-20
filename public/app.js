@@ -128,7 +128,7 @@ $('#open-invitation').addEventListener('click',() => {
 $('#skip-invitation').addEventListener('click',()=>closeInvitation(true));
 dialog.addEventListener('cancel',event=>{event.preventDefault();closeInvitation();});
 dialog.addEventListener('close',()=>{clearTimeout(introTimer);rememberOpened();});
-function showInvitation(){ $('.envelope').classList.remove('open'); $('#open-invitation').disabled=false; if(!dialog.open)dialog.showModal(); }
+function showInvitation(){ $('.envelope').classList.remove('open'); $('#open-invitation').disabled=false; if(!dialog.open)dialog.showModal(); dialog.scrollTop=0; $('#welcome-title').setAttribute('tabindex','-1'); $('#welcome-title').focus({preventScroll:true}); }
 $('#reopen-invitation').addEventListener('click',showInvitation);
 let alreadyOpened=false;
 try{alreadyOpened=sessionStorage.getItem('donbosco-invitation-opened')==='1';}catch{}
