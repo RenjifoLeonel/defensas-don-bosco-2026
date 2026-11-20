@@ -35,7 +35,7 @@ Publicado en Vercel, proyecto `defensas-don-bosco-2026`, equipo Renjifo.
 
 Repositorio oficial: https://github.com/RenjifoLeonel/defensas-don-bosco-2026
 
-La rama de producción es `main`. El proyecto usa `vercel.json`; la carpeta pública es `public` y la compilación es `npm run build`.
+El repositorio está conectado al proyecto existente de Vercel. Los cambios enviados a la rama `main` generan una publicación automática. El proyecto usa `vercel.json`; la carpeta pública es `public` y la compilación es `npm run build`.
 
 La página pública no requiere cuentas de los visitantes. El repositorio puede ser privado. No hay credenciales administrativas en estos archivos. La clave anónima del contador es pública.
 
