@@ -1,0 +1,329 @@
+{
+  "title": "Defensa de Proyectos Finales 2026",
+  "institution": "Centro de Educación Alternativa Don Bosco “D” – El Prado",
+  "career": "Diseño Gráfico",
+  "level": "Técnico Medio II",
+  "venue": "Sala de Reuniones del CEA Don Bosco “D”",
+  "address": "Calle Tihuanaco N.º 8, frente al Hotel Europa, La Paz, Bolivia",
+  "mapUrl": "https://maps.app.goo.gl/T8Zb2fDYEnS32FhY7",
+  "jury": [
+    {
+      "id": "eliana",
+      "name": "Lic. Eliana Ingrid Andrade Machaca",
+      "role": "Jurado externo",
+      "confirmed": true,
+      "profile": "Diseñadora gráfica, ilustradora y artista plástica."
+    },
+    {
+      "id": "roly",
+      "name": "Lic. Roly Huanca Huari",
+      "role": "Jurado externo",
+      "confirmed": true,
+      "profile": "Docente de la Academia Nacional de Bellas Artes “Hernando Siles” y de la carrera de Artes Plásticas de la UPEA."
+    },
+    {
+      "id": "edgar",
+      "name": "Lic. Edgar Antonio López Mercado",
+      "role": "Jurado interno",
+      "confirmed": true,
+      "profile": "Docente de la carrera de Diseño Gráfico."
+    },
+    {
+      "id": "camila",
+      "name": "Lic. Camila Karin Maldonado Canaza",
+      "role": "Jurado externo",
+      "confirmed": true,
+      "profile": "Máster y licenciada en Diseño Gráfico y Comunicación Visual. Directora de arte y diseñadora gráfica."
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-24",
+      "timezone": "America/La_Paz",
+      "juries": [
+        "eliana",
+        "roly",
+        "edgar",
+        "camila"
+      ],
+      "opening": {
+        "title": "Acto de inauguración y apertura del evento académico",
+        "start": "19:00",
+        "durationMinutes": 15
+      },
+      "defenses": [
+        {
+          "order": 1,
+          "start": "19:15",
+          "durationMinutes": 20,
+          "students": [
+            "Paola Patricia Morales Laimicusi"
+          ],
+          "modality": "Práctica laboral comunitaria",
+          "projectTitle": "Aplicación del diseño gráfico en la elaboración y producción de materiales editoriales para la Comisión de Alfabetización y Literatura en Aymara (C.A.L.A.) durante la Práctica Laboral Comunitaria",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 2,
+          "start": "19:35",
+          "durationMinutes": 20,
+          "students": [
+            "Ray Tarifa García"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Emprendimiento de diseño gráfico especializado en identidad visual y comunicación digital para el sector odontológico",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 3,
+          "start": "19:55",
+          "durationMinutes": 10,
+          "students": [
+            "Wara Mireya Navia Limachi"
+          ],
+          "modality": "Excelencia académica",
+          "projectTitle": "El inevitable cambio de ver la vida con ojos de diseñador en el CEA Don Bosco “D”",
+          "activity": "Socialización de artículo",
+          "tutorId": "ivan"
+        },
+        {
+          "order": 4,
+          "start": "20:05",
+          "durationMinutes": 20,
+          "students": [
+            "Alain Benjamin Avalos Valenzuela"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Reforma Studio - Estudio de diseño gráfico, publicidad, multimedia, web",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 5,
+          "start": "20:25",
+          "durationMinutes": 20,
+          "students": [
+            "Joel Rodrigo Mamani Aguilar",
+            "Rafael Alberto Perez Sanjines"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Plan de implementación de “Centauro Print” emprendimiento de diseño y producción de identidad visual y material publicitario para microemprendimientos de servicios y de comercio en la ciudad de La Paz",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 6,
+          "start": "20:45",
+          "durationMinutes": 10,
+          "students": [
+            "Anahi Loza Blanco"
+          ],
+          "modality": "Excelencia académica",
+          "projectTitle": "Revalorización de la cultura Callisaya en el diseño grafico del CEA Don Bosco “D”",
+          "activity": "Socialización de artículo",
+          "tutorId": "ivan"
+        },
+        {
+          "order": 7,
+          "start": "20:55",
+          "durationMinutes": 20,
+          "students": [
+            "Ivan Mijael Saenz Moya"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Arte Chief Estudio de diseño de packaging e identidad visual para hoteles gastronómicos y restobares",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        }
+      ],
+      "defensesEnd": "21:15",
+      "deliberation": {
+        "start": "21:15",
+        "durationMinutes": 10
+      },
+      "closing": {
+        "start": "21:25",
+        "durationMinutes": 5
+      },
+      "eventEnd": "21:30",
+      "scheduleStatus": "Programa oficial"
+    },
+    {
+      "date": "2026-11-25",
+      "timezone": "America/La_Paz",
+      "juries": [
+        "eliana",
+        "roly",
+        "edgar"
+      ],
+      "opening": null,
+      "defenses": [
+        {
+          "order": 1,
+          "start": "19:00",
+          "durationMinutes": 20,
+          "students": [
+            "Wilfredo Apaza Mamani"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Arte & Impresión - Diseño gráfico e impresión para pequeños negocios de la ciudad de La Paz",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 2,
+          "start": "19:20",
+          "durationMinutes": 20,
+          "students": [
+            "Jhoselin Cielo Sirvas Guisbert"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Estudio de diseño gráfico “C&E Design” para la prestación de servicios de identidad digital y packaging, aplicado a Multitienda Eithan en la ciudad de La Paz.",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 3,
+          "start": "19:40",
+          "durationMinutes": 20,
+          "students": [
+            "Josue Huañapaco Marconi"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Crimson Life - Branding para negocios de costura y confeccion",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 4,
+          "start": "20:00",
+          "durationMinutes": 10,
+          "students": [
+            "Leydy Marian Blanco Lima"
+          ],
+          "modality": "Excelencia académica",
+          "projectTitle": "Mi experiencia en el CEA Don Bosco “D”, de mirar a observar",
+          "activity": "Socialización de artículo",
+          "tutorId": "ivan"
+        },
+        {
+          "order": 5,
+          "start": "20:10",
+          "durationMinutes": 20,
+          "students": [
+            "Fidelia Zoila Vega Gutiérrez"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Estudio Gráfico Fuera de Línea - Diseño de un estudio gráfico especializado en identidad visual deportiva para ligas amateur mediante estrategias de branding en la ciudad de La Paz y El Alto",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 6,
+          "start": "20:30",
+          "durationMinutes": 20,
+          "students": [
+            "Fabiola Larico Apaza"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Implementación del estudio de diseño gráfico digital y desarrollo web Fabu Studio orientado al fortalecimiento comercial de microemprendimientos en El Alto, aplicado al caso Stay Bloom",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        },
+        {
+          "order": 7,
+          "start": "20:50",
+          "durationMinutes": 20,
+          "students": [
+            "Ismael Enriquez Rada"
+          ],
+          "modality": "Emprendimiento productivo",
+          "projectTitle": "Plan de emprendimiento productivo para la implementación de la agencia de diseño gráfico “Penumbra”, especializada en servicios de rebranding y comunicación gráfica adaptable para cafés tradicionales de paso tipo kiosco del centro paceño.",
+          "activity": "Presentación y defensa",
+          "tutorId": "willy"
+        }
+      ],
+      "defensesEnd": "21:10",
+      "deliberation": {
+        "start": "21:10",
+        "durationMinutes": 10
+      },
+      "closing": {
+        "start": "21:20",
+        "durationMinutes": 5
+      },
+      "eventEnd": "21:25",
+      "scheduleStatus": "Programa oficial"
+    }
+  ],
+  "contact": {
+    "enabled": true,
+    "type": "whatsapp",
+    "label": "Consultas por WhatsApp",
+    "phone": "+59173746837",
+    "displayPhone": "+591 73746837",
+    "message": "Hola, tengo una consulta sobre las Defensas de Proyectos Finales 2026 de Diseño Gráfico del CEA Don Bosco El Prado.",
+    "url": "https://wa.me/59173746837?text=Hola%2C%20tengo%20una%20consulta%20sobre%20las%20Defensas%20de%20Proyectos%20Finales%202026%20de%20Dise%C3%B1o%20Gr%C3%A1fico%20del%20CEA%20Don%20Bosco%20El%20Prado."
+  },
+  "projectTitlesPending": false,
+  "scheduleProvisional": false,
+  "scheduleStatus": "Programa oficial",
+  "host": {
+    "name": "Lic. Willy Renjifo Mamani",
+    "role": "Docente de la carrera de Diseño Gráfico"
+  },
+  "tutors": [
+    {
+      "id": "willy",
+      "name": "Lic. Willy Renjifo Mamani",
+      "role": "Docente de la carrera de Diseño Gráfico",
+      "modalities": [
+        "Emprendimiento productivo",
+        "Práctica laboral comunitaria"
+      ]
+    },
+    {
+      "id": "ivan",
+      "name": "Lic. Ivan Delgado Avila",
+      "role": "Director del CEA Don Bosco “D”",
+      "modalities": [
+        "Excelencia académica"
+      ]
+    }
+  ],
+  "audio": {
+    "audioFile": "assets/spot-defensas-2026.mp3",
+    "durationSeconds": 49.71
+  },
+  "updatedDate": "2026-11-20",
+  "scheduleSource": "DEFENSAS_2026 _ DG Don Bosco version - revisada final.pdf",
+  "scheduleNote": "Orden y títulos según la lista oficial. Horarios con apertura de 15 minutos el martes, turnos de 20 minutos y espacios de Excelencia de 10 minutos, más deliberación y cierre.",
+  "modalities": [
+    {
+      "id": "emprendimiento",
+      "title": "Emprendimiento Productivo",
+      "tagline": "Ideas que se convierten en oportunidades.",
+      "description": "Una iniciativa personal, familiar o comunitaria que aplica la formación técnica a necesidades reales.",
+      "transcript": "Una idea puede convertirse en una oportunidad para transformar nuestra comunidad.\n\nEn la Educación Alternativa de Bolivia, el Emprendimiento Productivo permite demostrar lo aprendido mediante una iniciativa personal, familiar o comunitaria, vinculada con la especialidad técnica.\n\nEl participante puede presentar un emprendimiento que ya funciona o un proyecto para ponerlo en marcha. Para ello, identifica una necesidad, define a quién beneficiará y organiza sus productos o servicios, recursos, costos y posibilidades de crecimiento.\n\nEn Diseño Gráfico, esta modalidad puede tomar forma en un estudio creativo, servicios de identidad visual, producción editorial o soluciones de comunicación para negocios y organizaciones.\n\nAsí, la creatividad se une a la planificación para fortalecer la economía y aportar al entorno.\n\nEn el CEA Don Bosco “D”, acompañamos ideas que nacen del aprendizaje y proyectan nuevas oportunidades.",
+      "audioFile": "assets/modalidad-emprendimiento.mp3"
+    },
+    {
+      "id": "practica",
+      "title": "Práctica Laboral Comunitaria",
+      "tagline": "El aprendizaje se encuentra con el trabajo.",
+      "description": "Experiencia en un entorno laboral o productivo, con acompañamiento docente y sistematización de lo aprendido.",
+      "transcript": "Aprender también significa llevar nuestros conocimientos al mundo del trabajo.\n\nLa Práctica Laboral Comunitaria es una modalidad de graduación de la Educación Alternativa que permite fortalecer las capacidades técnicas en instituciones públicas, empresas privadas o espacios productivos de la comunidad.\n\nLa guía del Ministerio de Educación establece una duración mínima de tres meses, durante los dos últimos semestres del nivel Técnico Medio, con seguimiento del docente de la especialidad.\n\nEl participante aplica lo aprendido, registra su experiencia y presenta una sistematización que luego socializa.\n\nEn Diseño Gráfico, esto puede incluir la elaboración de materiales editoriales, piezas de comunicación e identidad visual para necesidades reales.\n\nCada tarea fortalece la responsabilidad, la comunicación y el trabajo en equipo.\n\nEn el CEA Don Bosco “D”, valoramos una formación que conecta el conocimiento con la práctica y el servicio a la comunidad.",
+      "audioFile": "assets/modalidad-practica.mp3"
+    },
+    {
+      "id": "excelencia",
+      "title": "Excelencia Académica",
+      "tagline": "La constancia merece reconocimiento.",
+      "description": "Reconocimiento a una trayectoria académica destacada. En este encuentro los estudiantes socializan su artículo, elaborado con la tutoría del Lic. Ivan Delgado Avila, director del CEA Don Bosco “D”.",
+      "transcript": "Cada logro académico tiene detrás esfuerzo, disciplina y constancia.\n\nLa Graduación por Excelencia es una modalidad de la Educación Alternativa que reconoce el desempeño destacado durante la formación técnica.\n\nEl reglamento contempla a quienes aprobaron los niveles Técnico Básico y Técnico Auxiliar, cursan el segundo semestre de Técnico Medio y alcanzan un promedio general de al menos ochenta y cinco puntos.\n\nLa dirección del centro verifica el cumplimiento de estos requisitos e identifica a los participantes que pueden acceder a esta modalidad, sin exigir un proyecto ni una socialización como condición de graduación.\n\nEste reconocimiento pone en valor un recorrido de aprendizaje y superación.\n\nEn el CEA Don Bosco “D”, celebramos a quienes han demostrado dedicación en su formación en Diseño Gráfico.\n\nSu trayectoria inspira a seguir aprendiendo y a construir nuevas oportunidades con responsabilidad y compromiso.",
+      "audioFile": "assets/modalidad-excelencia.mp3"
+    }
+  ]
+}
